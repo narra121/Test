@@ -12,3 +12,7 @@ try:
         time.sleep(60)
 except KeyboardInterrupt:
     print("Stopped servie.")
+
+
+def main():
+    pass

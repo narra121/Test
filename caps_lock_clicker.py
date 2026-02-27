@@ -11,7 +11,7 @@ try:
         print(f"Caps Lock pressed twice at {time.strftime('%H:%M:%S')}")
         time.sleep(60)
 except KeyboardInterrupt:
-    print("Stopped servie.")
+    print("Stopped 123servie.")
 
 
 def main():
